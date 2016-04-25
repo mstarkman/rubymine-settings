@@ -1,9 +1,5 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer2" value="Jade" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer3" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer4" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="TEXT" />
@@ -22,7 +18,16 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24" value="ruby" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_28" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_29" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_31" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_32" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_35" value="ruby" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_36" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="ruby" />
