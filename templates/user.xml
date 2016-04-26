@@ -1,0 +1,28 @@
+<templateSet group="user">
+  <template name="logit" value="['#'*100, $CURSOR$, '#'*100].each { |t| Rails.logger.debug t}" description="Rails logging statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log($CURSOR$);" description="console.log - JavaScript edition" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="CoffeeScript" value="true" />
+    </context>
+  </template>
+  <template name="cll" value="console.log(&quot;*****&quot; + $CURSOR$ + &quot;*****&quot;);" description="console.log logging - JavaScript edition" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="CoffeeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
