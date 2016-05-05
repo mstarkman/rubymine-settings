@@ -1326,6 +1326,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capistrano-slack-1.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-slack (v1.3.2@71b274, rbenv: 1.9.3-p429) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/bundler/gems/capistrano-slack-71b27439461d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/bundler/gems/capistrano-slack-71b27439461d/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-slack (v1.3.2@71b274, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/capistrano-slack-71b27439461d/lib" />
