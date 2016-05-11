@@ -1,5 +1,6 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="TEXT" />
@@ -29,7 +30,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33" value="SQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34" value="RHTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_35" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_37" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="ruby" />
