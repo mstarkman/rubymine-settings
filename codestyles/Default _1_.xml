@@ -11,9 +11,6 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <MultiMarkdownCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
