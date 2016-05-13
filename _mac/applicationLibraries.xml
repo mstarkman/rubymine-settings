@@ -628,6 +628,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/amoeba-3.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="ansi (v1.5.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ansi-1.5.0/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ansi-1.5.0/demo" />
+      </SOURCES>
+    </library>
     <library name="ar-octopus (v0.8.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ar-octopus-0.8.1/lib" />
@@ -4484,6 +4494,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/release" />
       </SOURCES>
     </library>
+    <library name="libv8 (v3.16.14.15, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/vendor" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.0.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/listen-3.0.3/bin" />
@@ -7062,6 +7084,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ruby-progressbar-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ruby-progressbar-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-trello (v1.4.1, rbenv: 2.2.3) [gem]">
