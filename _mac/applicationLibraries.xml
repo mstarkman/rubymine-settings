@@ -3770,6 +3770,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/httpclient-2.6.0.1/sample" />
       </SOURCES>
     </library>
+    <library name="httpclient (v2.8.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/httpclient-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/httpclient-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/httpclient-2.8.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/httpclient-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/httpclient-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/httpclient-2.8.0/sample" />
+      </SOURCES>
+    </library>
     <library name="httpi (v2.4.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/httpi-2.4.1/lib" />
