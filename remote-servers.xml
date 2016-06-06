@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Heroku (personal)" type="heroku">
+      <configuration email="mrstarkman@gmail.com" password="grt020509" />
+    </remote-server>
+  </component>
+</application>
