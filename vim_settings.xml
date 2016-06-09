@@ -1,0 +1,54 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/positudes/app/views/layouts/application.html.erb" timestamp="1465431618732" />
+      <file name="$USER_HOME$/Development/resume/index.html" timestamp="1465432223384">
+        <mark key="]" line="61" column="15" />
+        <mark key="^" line="61" column="15" />
+        <mark key="." line="61" column="15" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>y</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>y</text>
+      </register>
+      <register name="2" type="4">
+        <text>e</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">TGVhZCA=</text>
+      </register>
+      <register name="4" type="4">
+        <text>Team</text>
+      </register>
+      <register name="5" type="4">
+        <text>/</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">bmVhcmx5IA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>y</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
