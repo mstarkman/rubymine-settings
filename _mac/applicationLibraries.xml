@@ -4802,6 +4802,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/honeybadger-2.1.4/resources" />
       </SOURCES>
     </library>
+    <library name="honeybadger (v2.6.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/honeybadger-2.6.0/resources" />
+      </SOURCES>
+    </library>
     <library name="houston (v2.2.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/houston-2.2.3/bin" />
@@ -6458,6 +6472,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/minitest-5.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.9.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/minitest-5.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/minitest-5.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.9.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/minitest-5.9.0/lib" />
@@ -6616,6 +6638,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/multi_json-1.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.12.1, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.5.5, rbenv: 2.1.5) [gem]">
