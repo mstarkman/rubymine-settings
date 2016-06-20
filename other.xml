@@ -94,6 +94,7 @@
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/v0.10.40/bin/node">
       <version-cache last-modified="0" />
+      <npm-package value="$USER_HOME$/.nvm/v0.10.40/lib/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node">
       <version-cache last-modified="0" />
