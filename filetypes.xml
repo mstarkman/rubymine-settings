@@ -17,6 +17,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping pattern="authenticatable" type="Ruby" />
     </extensionMap>
   </component>
