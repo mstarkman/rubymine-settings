@@ -1,0 +1,12 @@
+<scheme name="Darcula - MAS" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-10-02T19:16:56</property>
+    <property name="ide">Ruby</property>
+    <property name="ideVersion">2016.2.4.0.0</property>
+    <property name="modified">2016-10-02T19:17:11</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+</scheme>
