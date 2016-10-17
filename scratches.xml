@@ -1,7 +1,5 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/google elasticearch.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/google halight launch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.markdown" value="Markdown" />
@@ -18,6 +16,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15" value="JavaScript" />
