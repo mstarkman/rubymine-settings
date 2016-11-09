@@ -12998,6 +12998,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ri_cal-0.8.8/component_attributes" />
       </SOURCES>
     </library>
+    <library name="ripper-tags (v0.3.3, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/ripper-tags-0.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/ripper-tags-0.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/ripper-tags-0.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/ripper-tags-0.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="roadie (v2.4.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/roadie-2.4.3/lib" />
