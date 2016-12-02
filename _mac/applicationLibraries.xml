@@ -4374,6 +4374,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job-3.0.5/recipes" />
       </SOURCES>
     </library>
+    <library name="delayed_job (v4.1.2, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/recipes" />
+      </SOURCES>
+    </library>
     <library name="delayed_job_active_record (v0.3.2, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/delayed_job_active_record-0.3.2/lib" />
@@ -4396,6 +4408,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="delayed_job_active_record (v4.1.1, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.1/lib" />
       </SOURCES>
     </library>
     <library name="delighted (v1.5.1, rbenv: 2.2.4) [gem]">
