@@ -2992,6 +2992,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-screenshot-1.0.11/gemfiles" />
       </SOURCES>
     </library>
+    <library name="capybara-screenshot (v1.0.14, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/capybara-screenshot-1.0.14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/capybara-screenshot-1.0.14/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/capybara-screenshot-1.0.14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/capybara-screenshot-1.0.14/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="capybara-webkit (v1.11.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-webkit-1.11.1/bin" />
