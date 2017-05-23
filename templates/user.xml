@@ -8,15 +8,15 @@
   <template name="cl" value="console.log($CURSOR$);" description="console.log - JavaScript edition" toReformat="false" toShortenFQNames="true">
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="cll" value="console.log(&quot;*****&quot; + $CURSOR$ + &quot;*****&quot;);" description="console.log logging - JavaScript edition" toReformat="false" toShortenFQNames="true">
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
