@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*haml" />
+    <option name="FILE_MASK" value="*es6" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,6 +22,10 @@
       <mask>ham</mask>
       <mask>haml</mask>
       <mask>*haml</mask>
+      <mask>*</mask>
+      <mask>*e</mask>
+      <mask>*es</mask>
+      <mask>*es6</mask>
     </recentFileMasks>
   </component>
 </application>
