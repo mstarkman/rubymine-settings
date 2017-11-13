@@ -65,6 +65,14 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
+    <driver id="java.sql.Driver" name="Sqlite 3.15 (Xerial)" dialect="SQLite" driver-class="org.sqlite.JDBC">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/OneDrive/SaneBox/sqlite-jdbc-3.15.0.jar</url>
+      </library>
+    </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
