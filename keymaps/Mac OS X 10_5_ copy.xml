@@ -8,6 +8,7 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
