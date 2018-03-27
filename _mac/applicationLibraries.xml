@@ -1556,6 +1556,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/fuubar-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="gem-ctags (v1.0.8, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/gem-ctags-1.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/gem-ctags-1.0.8/lib" />
+      </SOURCES>
+    </library>
     <library name="geocoder (v1.4.3, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/geocoder-1.4.3/bin" />
