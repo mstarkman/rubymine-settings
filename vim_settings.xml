@@ -3,6 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/sanebox/sanebox/lib/sitemap_builder.rb" timestamp="1525103102195">
+        <mark key="[" line="108" column="29" />
+        <mark key="]" line="108" column="28" />
+        <mark key="." line="108" column="28" />
+        <mark key="^" line="108" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/homepolish/hive-api/app/helpers/application_helper.rb" timestamp="1475502992159">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="221" column="26" />
@@ -15,6 +21,12 @@
         <mark key="^" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/sanebox/sanebox/app/models/help/article.rb" timestamp="1525103996364">
+        <mark key="[" line="82" column="7" />
+        <mark key="]" line="82" column="6" />
+        <mark key="^" line="82" column="6" />
+        <mark key="." line="82" column="6" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="253" column="0" filename="$USER_HOME$/Development/homepolish/hive-api/app/helpers/application_helper.rb" />
@@ -24,8 +36,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgbmV3c2xldHRlcl9saW5rCiAgICAiaHR0cDovL2VlcHVybC5jb20vc09CSW4iCiAgZW5kCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgbmV3c2xldHRlcl9saW5rCiAgICAiaHR0cDovL2VlcHVybC5jb20vc09CSW4iCiAgZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="2" type="4">
         <text>y</text>
@@ -46,10 +58,10 @@
         <text encoding="base64">bmVhcmx5IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action About</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>g</text>
       </register>
     </registers>
     <search>
@@ -60,17 +72,16 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>actionlist a</entry>
+        <entry>q</entry>
+        <entry>action Move</entry>
+        <entry>action Save</entry>
+        <entry>action about</entry>
+        <entry>action About</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
